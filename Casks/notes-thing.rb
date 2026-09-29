@@ -7,7 +7,7 @@ cask "notes-thing" do
   desc "Menu bar lecture recorder with timestamped live notes, transcribed on-device"
   homepage "https://github.com/yoelgal/notes-thing"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Notes Thing.app"
 
