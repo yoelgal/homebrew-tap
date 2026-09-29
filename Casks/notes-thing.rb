@@ -5,7 +5,7 @@ cask "notes-thing" do
   url "https://github.com/yoelgal/notes-thing/releases/latest/download/NotesThing.zip"
   name "Notes Thing"
   desc "Menu bar lecture recorder with timestamped live notes, transcribed on-device"
-  homepage "https://github.com/yoelgal/notes-thing"
+  homepage "https://notesthing.yoelgal.com"
 
   depends_on macos: :sonoma
 
