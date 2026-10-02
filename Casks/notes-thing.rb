@@ -4,7 +4,7 @@ cask "notes-thing" do
 
   url "https://github.com/yoelgal/notes-thing/releases/latest/download/NotesThing.zip"
   name "Notes Thing"
-  desc "Menu bar lecture recorder with timestamped live notes, transcribed on-device"
+  desc "Record anything and drop timestamped notes into an on-device transcript"
   homepage "https://notesthing.yoelgal.com"
 
   depends_on macos: :sonoma
